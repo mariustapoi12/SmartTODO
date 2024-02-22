@@ -1,0 +1,6 @@
+{
+  "appTitle": "smattodo",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
